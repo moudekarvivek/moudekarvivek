@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/vivek-moudekar-12b9b8152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-moudekar-12b9b8152" height="30" width="40" /></a>
 <a href="https://instagram.com/vivek_moudekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivek_moudekar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/moudekarvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/moudekarvivek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/focal_fossa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/focal_fossa/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/moudekarvivek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/moudekarvivek" height="30" width="40" /></a>
+<a href="https://leetcode.com/focal_fossa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/focal_fossa/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
