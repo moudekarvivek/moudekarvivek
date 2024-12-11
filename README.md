@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moudekarvivek&label=Profile%20views&color=0e75b6&style=flat" alt="moudekarvivek" /> </p>
 
-- 🌱 I’m currently learning **DevOps and Spring Framework**
+- 🌱 Interested in the Field of **Full stack Java Development and DevOps**
 
 - 💬 Ask me about **Linux,DevOps,WebDevelopment**
 
