@@ -1,5 +1,5 @@
 # HI 👋, I'm Vivek!
-<br><br>🌱Full Stack Developer<br>I am a Full Stack Developer from India.<br><br><br>🔭 I am proficient in Java Spring Boot, Node.JS, JavaScript, TailwindCSS, React.JS, MySQL and Git Version Control.<br>🔭 I have Hands-On Practice in Cloud Technologies and Deployment AWS and Serverless Deployments CI/CD.<br>🔭💬 I have a keen interest in problem-solving. I have solved Data Structures & Algorithms problems on LeetCode.<br>🔭 📫 How to reach me moudekarvivek@gmail.com
+<br><br>🌱Full Stack Developer<br>I am a Full Stack Developer from India.<br><br><br>🔭 I am proficient in Java Spring Boot, Node.JS, JavaScript, TailwindCSS, React.JS, MySQL and Git Version Control.<br>🔭 I have Hands-On Practice in Cloud Technologies and Deployment AWS and Serverless Deployments CI/CD.<br>🔭💬  I have a keen interest in problem-solving and Web Development.<br>🔭 📫 How to reach me moudekarvivek@gmail.com
 
 
 ## 🌐 Socials
